@@ -5,3 +5,6 @@
 # build
 out/
 
+# log
+*.txt
+

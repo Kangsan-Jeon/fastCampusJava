@@ -1,7 +1,6 @@
-package Chapter6.src.ch08;
+package Chapter6.src.ch07;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 
 public class TravelTest {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Chapter6.src.ch08;
+package Chapter6.src.ch07;
 
 import java.util.Arrays;
 import java.util.stream.Stream;
